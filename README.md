@@ -7,9 +7,13 @@
 
 # Installation & Usage
 
+Install emailSpoofDetection library:
+
     pip install emailSpoofDetection
 
-    python3 spoofdet.py /path/to/txt file
+To use the tool add the path to the txt file:
+
+    python3 spoofdet.py /path/to/file.txt
 
 **⚠️ IMPORTANT ⚠️**
 
